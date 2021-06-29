@@ -1,0 +1,22 @@
+.faq {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  padding: 1em;
+  background-color: rgb(255, 255, 255);
+  border-radius: 3px;
+
+  &__title {
+    font-weight: bold;
+    font-size: 2em;
+  }
+
+  &__subtitle {
+    font-weight: bold;
+    margin-top: 2em;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+  }
+
+  &__text {
+    color: rgb(92, 92, 92);
+  }
+}
