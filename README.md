@@ -1,8 +1,8 @@
-# The Node-init script
+# react-github-api
 
 ## Introduction
 
-The Github API is a React project connected to the github API that allows you to search for repositories based on keywords
+react-github-api is a React project connected to the github API that allows you to search for repositories based on keywords
 
 ##  Content
 
